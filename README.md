@@ -71,7 +71,7 @@ Packages/
 
    ```bash
    cd hill-climb-racing
-   ```
+   ````
 
 3. پروژه را در Unity باز کنید (نسخه پیشنهادی: 2020.3 LTS یا بالاتر).
 
