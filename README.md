@@ -57,9 +57,11 @@ Packages/
 1. ریپوزیتوری را کلون کنید:
    ```bash
    git clone git@github.com:zahmadi98/hill-climb-racing.git
+
 2. وارد پوشه پروژه شوید:
 
 cd hill-climb-racing
+
 3. پروژه را در Unity باز کنید (نسخه پیشنهادی: 2020.3 LTS یا بالاتر).
 
 4. صحنه اصلی بازی را اجرا کنید.
