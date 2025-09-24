@@ -66,8 +66,9 @@ Packages/
    ```bash
    git clone git@github.com:zahmadi98/hill-climb-racing.git
 ````
-
+---
 2. وارد پوشه پروژه شوید:
+
 
    ```bash
    cd hill-climb-racing
